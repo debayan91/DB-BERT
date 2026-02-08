@@ -3,7 +3,7 @@
 
 This repository contains the code and paper for **DB-BERT**, a Transformer-based model for predicting SQL query difficulty directly from a user's natural language question, prior to query generation.
 
-The full experiment is detailed in `DB_BERT.ipynb` and the accompanying paper, `db_bert_paper_article.pdf`.
+The full experiment is detailed in `DB_BERT.ipynb` and the accompanying paper, `DB_BERT.pdf`.
 
 ## The Problem
 
